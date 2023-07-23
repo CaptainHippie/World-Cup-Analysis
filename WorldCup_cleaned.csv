@@ -1,21 +1,21 @@
-Year,Country,Winner,Runners-Up,Third,Fourth,GoalsScored,QualifiedTeams,MatchesPlayed,Attendance,Average Attendance
-1930,Uruguay,Uruguay,Argentina,USA,Yugoslavia,70,13,18,590549,32808
-1934,Italy,Italy,Czechoslovakia,Germany,Austria,70,16,17,363000,21352
-1938,France,Italy,Hungary,Brazil,Sweden,84,15,18,375700,20872
-1950,Brazil,Uruguay,Brazil,Sweden,Spain,88,13,22,1045246,47511
-1954,Switzerland,Germany,Hungary,Austria,Uruguay,140,16,26,768607,29561
-1958,Sweden,Brazil,Sweden,France,Germany,126,16,35,819810,23423
-1962,Chile,Brazil,Czechoslovakia,Chile,Yugoslavia,89,16,32,893172,27911
-1966,England,England,Germany,Portugal,Soviet Union,89,16,32,1563135,48847
-1970,Mexico,Brazil,Italy,Germany,Uruguay,95,16,32,1603975,50124
-1974,Germany,Germany,Netherlands,Poland,Brazil,97,16,38,1865753,49098
-1978,Argentina,Argentina,Netherlands,Brazil,Italy,102,16,38,1545791,40678
-1982,Spain,Italy,Germany,Poland,France,146,24,52,2109723,40571
-1986,Mexico,Argentina,Germany,France,Belgium,132,24,52,2394031,46039
-1990,Italy,Germany,Argentina,Italy,England,115,24,52,2516215,48388
-1994,USA,Brazil,Italy,Sweden,Bulgaria,141,24,52,3587538,68991
-1998,France,France,Brazil,Croatia,Netherlands,171,32,64,2785100,43517
-2002,Korea/Japan,Brazil,Germany,Turkey,Korea Republic,161,32,64,2705197,42268
-2006,Germany,Italy,France,Germany,Portugal,147,32,64,3359439,52491
-2010,South Africa,Spain,Netherlands,Germany,Uruguay,145,32,64,3178856,49669
-2014,Brazil,Germany,Argentina,Netherlands,Brazil,171,32,64,3386810,52918
+Year,Country,Winner,Runners-Up,Third,Fourth,GoalsScored,QualifiedTeams,MatchesPlayed,Attendance,Average Attendance,Final venue,Attendance for the final
+1930,Uruguay,Uruguay,Argentina,USA,Yugoslavia,70,13,18,590549,32808,"Estadio Centenario, Montevideo ",68346
+1934,Italy,Italy,Czechoslovakia,Germany,Austria,70,16,17,363000,21352,"Nazionale PNF, Rome ",55000
+1938,France,Italy,Hungary,Brazil,Sweden,84,15,18,375700,20872,"Stade Olympique, Colombes ",45000
+1950,Brazil,Uruguay,Brazil,Sweden,Spain,88,13,22,1045246,47511,,
+1954,Switzerland,Germany,Hungary,Austria,Uruguay,140,16,26,768607,29561,"Wankdorf Stadium, Berne ",62500
+1958,Sweden,Brazil,Sweden,France,Germany,126,16,35,819810,23423,"Rasunda Stadium, Solna ",49737
+1962,Chile,Brazil,Czechoslovakia,Chile,Yugoslavia,89,16,32,893172,27911,"Nacional, Santiago De Chile ",68679
+1966,England,England,Germany,Portugal,Soviet Union,89,16,32,1563135,48847,"Wembley Stadium, London ",96924
+1970,Mexico,Brazil,Italy,Germany,Uruguay,95,16,32,1603975,50124,"Estadio Azteca, Mexico City ",107412
+1974,Germany,Germany,Netherlands,Poland,Brazil,97,16,38,1865753,49098,"Olympiastadion, Munich ",78200
+1978,Argentina,Argentina,Netherlands,Brazil,Italy,102,16,38,1545791,40678,"El Monumental - Estadio Monumental Antonio Vespuci, Buenos Aires ",71483
+1982,Spain,Italy,Germany,Poland,France,146,24,52,2109723,40571,"Santiago Bernabeu, Madrid ",90000
+1986,Mexico,Argentina,Germany,France,Belgium,132,24,52,2394031,46039,"Estadio Azteca, Mexico City ",114600
+1990,Italy,Germany,Argentina,Italy,England,115,24,52,2516215,48388,"Stadio Olimpico, Rome ",73603
+1994,USA,Brazil,Italy,Sweden,Bulgaria,141,24,52,3587538,68991,"Rose Bowl, Los Angeles ",94194
+1998,France,France,Brazil,Croatia,Netherlands,171,32,64,2785100,43517,"Stade de France, Saint-Denis ",80000
+2002,Korea/Japan,Brazil,Germany,Turkey,Korea Republic,161,32,64,2705197,42268,"International Stadium Yokohama, Yokohama ",69029
+2006,Germany,Italy,France,Germany,Portugal,147,32,64,3359439,52491,"Olympiastadion, Berlin ",69000
+2010,South Africa,Spain,Netherlands,Germany,Uruguay,145,32,64,3178856,49669,"Soccer City Stadium, Johannesburg ",84490
+2014,Brazil,Germany,Argentina,Netherlands,Brazil,171,32,64,3386810,52918,"Estadio do Maracana, Rio De Janeiro ",74738
